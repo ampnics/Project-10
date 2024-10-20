@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NXRT15WB333JA3A016")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/NXRT15WB333JA3A016")(options "")(descr ""))
+  (lib (name "WA-MTAB")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/WA-MTAB")(options "")(descr ""))
+  (lib (name "FR207G")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/FR207G")(options "")(descr ""))
+  (lib (name "B2B-XH-A__LF__SN_")(type "KiCad")(uri "C:/Users/PHN PC-38/Downloads/KiCad Extra Libraries/B2B-XH-A__LF__SN_")(options "")(descr ""))
+)
